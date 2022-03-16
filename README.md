@@ -20,6 +20,6 @@
 
 [instagram]: https://www.facebook.com/vnhat03
 [facebook]: https://www.facebook.com/vnhat03
-[icloud]: mailto:longcelebi1gmail.com
+[gmail]: mailto:longcelebi1gmail.com
 
     
