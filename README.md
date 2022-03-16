@@ -9,41 +9,13 @@
 
 ```javascript
 class About extends Me {
-    static fullName = "Nguyễn Quang Sáng";
+    static fullName = "TRần Văn NHất";
     static getCurrentWorkplace () {
         return {
             Workplace: {
-                Company: 'Eris',
+                Company: 'CyRus',
                 Position: 'Founder'
             }
         }
     }
-    static showProgrammingLevel () {
-        return {
-            JavaScript: '35%',
-            NodeJS: '63%',
-            Python: '2%'
-        }
-    }
-    static socialAndContact () {
-        return {
-            Social: {
-                Website: 'https://quangsangblog.com/',
-                Github: 'https://github.com/ProCoderEris/'
-            },
-            Contact: {
-                Email: 'quangsang.official@gmail.com'
-            }
-        }
-    }
-    static buyMeACoffee () {
-        if (you_like_what_i_do)
-            try {
-                maybe_consider_buying_me_a_coffee();
-                return 'https://ko-fi.com/kearu';   
-            } catch {
-                return 'Thanks for visiting !';
-            }
-    }
-}
-```
+    
