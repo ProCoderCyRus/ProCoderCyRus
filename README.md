@@ -14,13 +14,12 @@
 ### Contact with me:
 [<img align="left" alt="ProCoderCyRus | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="ProCoderCyRus | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="ProCoderCyRus | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="tranvannhatk03@icloud.com  | icloud" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" />][gmail]
+[<img align="left" alt="longcelebi1gmail.com  | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
 
-[instagram]: https://www.instagram.com/tho_493
+[instagram]: https://www.facebook.com/vnhat03
 [facebook]: https://www.facebook.com/vnhat03
-[icloud]: mailto:tranvannhatk03@icloud.com
+[icloud]: mailto:longcelebi1gmail.com
 
     
