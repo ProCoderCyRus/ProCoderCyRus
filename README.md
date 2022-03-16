@@ -1,9 +1,9 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2313EAF7&size=23&center=true&lines=Hi+there%2CI'm+CyRus!;Welcome+to+my+Github!)](https://github.com/ProCoderCyRus)
 
 ### <img src="https://media0.giphy.com/media/l0JM83bF1jbRsTnNu/giphy.gif" width="23"> More info about me...
-- I'm a student at Sao Đỏ university
-- I'm 18 years old
-- WIP
+- I'm a student Trường đời...
+- I'm 19 years old
+- Hen em khi khac, ta sum vay...
 
 <img src="https://github-readme-stats.vercel.app/api?username=ProCoderCyRus&&show_icons=true">
 
