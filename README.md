@@ -23,8 +23,7 @@
 <b>➖ Zalo:</b> 0354775705
 </li>
 <br>
-<p><b>     Thông cảm nha tui là wibu nên<br>
-                  cái profile hơi cute xíu..</b></p>
+<p><b>     
 </div>
 <div>
 <h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
