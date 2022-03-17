@@ -7,7 +7,7 @@
 <br>
 <div>
 <h2 align="center"> 🤗 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🤗 </h2>
-<img src="https://i.imgur.com/eQOykss.gif" align="left" width="373.5px" height="208.5px">
+<img src="https://imgur.com/A2AZiks.gif" align="left" width="373.5px" height="208.5px">
 <li>
 <b>➖ Họ Tên:</b> Nhất</li>
 <li>
