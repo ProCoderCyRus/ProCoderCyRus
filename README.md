@@ -37,7 +37,7 @@ Tui khong phải là procoder gì đó đâu  >~<
 </p>
 <br>
 <h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-<img src="https://i.imgur.com/KXx0cCx.gif" align="left" width="373.5px" height="208.5px">
+<img src="https://imgur.com/HQdjJg5.gif" align="left" width="373.5px" height="208.5px">
 <br>
 <p align="center">Một số cách bạn có thể liên lạc <br>
 zới tui >~< </p>
