@@ -20,7 +20,7 @@
 <b>➖ Tiểu sử:</b> Tui 2k3 Quê quán: Hà Tĩnh
 </li>
 <li>
-<b>➖ Dev:</b> SiestaBot
+<b>➖ Zalo:</b> 0354775705
 </li>
 <br>
 <p><b>     Thông cảm nha tui là wibu nên<br>
