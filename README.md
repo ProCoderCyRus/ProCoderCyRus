@@ -1,55 +1,74 @@
- <body>
-<h1 align="center">⚜️  𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮  ⚜️</h1>
-<br>
-<div align="center">
-<img src="https://imgur.com/DhKIIJF.gif">
-</div>
-<br>
-<div>
-<h2 align="center"> 🤗 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🤗 </h2>
-<img src="https://imgur.com/A2AZiks.gif" align="left" width="373.5px" height="208.5px">
-<li>
-<b>➖ Họ Tên:</b> Nhất</li>
-<li>
-<b>➖ Biệt danh:</b> CyRus > ~ <
-</li>
-<li>
-<b>➖ Sở thích:</b> Xem Phim , Ngủ , Game   -///-
-</li>
-<li>
-<b>➖ Tiểu sử:</b> Tui 2k3 Quê quán: Hà Tĩnh
-</li>
-<li>
-<b>➖ Zalo:</b> 0354775705
-</li>
-<br>
-<p><b>     
-</div>
-<div>
-<h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
-<p>
-<img src="https://imgur.com/kSGRLjG.gif" align="right">
-</div>
-<div>
-<p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
-Tui khong phải là procoder gì đó đâu  >~<
-</p>
-<br>
-<h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-<img src="https://imgur.com/HQdjJg5.gif" align="left" width="373.5px" height="208.5px">
-<br>
-<p align="center">Một số cách bạn có thể liên lạc <br>
-zới tui >~< </p>
-<p align="center"><a href="https://www.facebook.com/vnhat03/" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png"/></a> <a href="https://www.facebook.com/vnhat03/" target="_blank"><img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram"/></a></p>
-</div>
-<br>
-<div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
-<div align="center">
-<img src="https://imgur.com/BGNeufv.gif">
-</div>
+<h1 align="center">Hi there👋, I'm Đậu Hoàng Tài! (known as taidh)<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">Pentester and CTFer</h3>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/78724676/107845321-998ad500-6e00-11eb-8f60-a90db837bdb2.gif" style="vertical-align:middle;margin:0px 50px">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ProCoderCyrus&label=Profile%20views&color=0e75b6&style=flat" alt="ProCoderCyrus" /> </p>
+
 <hr>
+
+<h3 align="left"><b>What I'm doing:</b></h3>
+
+- 🌁 I’m currently studying in **DTU (Hà Huy Tập - Viet Nam)**
+
+- 🌱 I’m currently learning: **PHP, Nodejs, Python, Java and Web Development!**
+
+- 📫 How to reach me: **tranvannhatk03@icloud.com**
+
+- ⚡ What I like to do: **I like so much game, football...and coding of course**
+
+<hr>
+
+<h3 align="left">Connect with me:</h3>
+<div align="left">
+
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ProCoderCyrus)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tranvannhatk03@icloud.com)
+[![image](https://img.shields.io/badge/blogger-996699?style=for-the-badge&logo=blogger&logoColor=white)](http://ProCoderCyrus.github.io)
+
 </div>
-</div>
-</body>
+
+<hr>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.php.net/docs.php" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org/en/docs/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
+  </a>
+  <a href="https://dev.mysql.com/doc/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a>
+  <a href="https://docs.docker.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a>
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+</p>
+
+<hr>
+
+<h3 align="left">
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></h3>
+<p align= "left">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=ProCoderCyrus&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProCoderCyrus&theme=react&layout=compact" />
+</p>
+
+------
+Discord: không có
+
+[ProCoderCyrus](https://github.com/ProCoderCyrus)
+
+Last Edited on: 01/09/2021
