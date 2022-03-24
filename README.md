@@ -10,7 +10,7 @@
 
 - 🌁 I’m currently studying in **DTU (Hà Huy Tập - Viet Nam)**
 
-- 🌱 I’m currently learning: **PHP, Nodejs, Python, Java and Web Development!**
+- 🌱 I’m currently learning: **Chỉ là 1 thằng mới tập code thoi**
 
 - 📫 How to reach me: **tranvannhatk03@icloud.com**
 
